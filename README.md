@@ -1,18 +1,36 @@
 # Weak Voice of the Younger Generation in Japanese Politics
 
-## Lede Program Project 2
-
+##About this project
 This is my submission as project 2 for the Lede Program in 2023.
-
 The story webpage is here: [https://sho-miyasaka.github.io/project-02/](https://sho-miyasaka.github.io/project-02/)
+
+
+
+Lede Program Project 2
+
+Short description of what you aimed to accomplish
+Short description of your findings
+Summary of the data collection process, with links
+Overview of the data analysis process
+A section about what new skills, approaches, etc you used, or where you grew the most during the project
+A section about things you tried to do or wanted to do but did not have the skills/time (but if you have more time you might do)
+
+
+
+
 
 I focused on the sentiment of Japanese citizens toward foreign countries and then obtained [csv data
 ](https://survey.gov-online.go.jp/r04/r04-gaiko/) from [the Cabinet Office of Japan](https://www.cao.go.jp/index-e.html), which has been conducting foreign policy opinion polls for over 40 years.
 
-|What I plotted|Data source|
+##About Data
+|Data I Collected|Source|
 |---|---|
-|Data on age by countries|[the Inter-Parliamentary Union] (https://data.ipu.org/age-brackets/)|
-|Parliamentary elections data|[the Inter-Parliamentary Union] (https://data.ipu.org/elections/)|
+|Data on age by countries|[Inter-Parliamentary Union] (https://data.ipu.org/age-brackets/)|
+|Parliamentary elections data|[Inter-Parliamentary Union] (https://data.ipu.org/elections/)|
+|Population by age group|[United Nations World Population Prospects 2022] (https://population.un.org/wpp/)|
+|Japan's 2021 general election results |[Ministry of Internal Affairs and Communications of Japan] (https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin/index.html)|
+|Population by age group|[United Nations World Population Prospects 2022] (https://population.un.org/wpp/)|
+|List of Members, House of Representatives of Japan|House of Representatives of Japan(https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/1giin.htm)|
 
 
 I analyzed changes in responses to the question of whether people feel familiarity with each of the four countries surrounding Japan: the U.S., China, South Korea, and Russia. I also looked at generational and gender differences in the most recent survey results.
