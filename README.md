@@ -3,25 +3,14 @@
 ## About this project
 This is my submission as project 2 for [the Lede Program](https://ledeprogram.com) in 2023. The story webpage is here: [https://sho-miyasaka.github.io/project-02/](https://sho-miyasaka.github.io/project-02/)
 
+In this project, I focused on how many young people are in politics. Some of European countries’ leaders, for example, have taken office in their 30s. In contrast, Japan's youngest prime minister in history is Prime Minister Shinzo Abe, who took office at the age of 52. If we look at the Japanese Diet, there is not a single member in his or her 20s now.
 
-
-Lede Program Project 2
-
-Short description of what you aimed to accomplish
-Short description of your findings
-Summary of the data collection process, with links
-Overview of the data analysis process
-A section about what new skills, approaches, etc you used, or where you grew the most during the project
-A section about things you tried to do or wanted to do but did not have the skills/time (but if you have more time you might do)
-
-
-
-
-
-I focused on the sentiment of Japanese citizens toward foreign countries and then obtained [csv data
-](https://survey.gov-online.go.jp/r04/r04-gaiko/) from [the Cabinet Office of Japan](https://www.cao.go.jp/index-e.html), which has been conducting foreign policy opinion polls for over 40 years.
+I thought I would compare data on how young people are in parliaments around the world. I also wanted to find out if the percentage of young parliamentarians varied by region and electoral system.
 
 ## Data collection and analysis
+First, I collected data to show the situation in Japan. I scraped the list of members of the House of Representatives elected in the most recent 2021 general election. By comparing the data with UN population estimates, I show that there are few members of the House of Representatives in their 20s and 30s relative to the composition of the population.
+
+Data from the Inter-Parliamentary Union is useful for making comparisons between countries around the world. I downloaded several datasets in csv format, two types of data: age group data and a list of electoral systems. I merged them into a single Pandas dataframe and looked at the relationship between regions and electoral systems and the proportion of young legislators.
 
 |Data I Collected|Source|
 |---|---|
@@ -33,20 +22,8 @@ I focused on the sentiment of Japanese citizens toward foreign countries and the
 |List of Members, House of Representatives of Japan|[House of Representatives of Japan](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/1giin.htm)|
 
 
-I analyzed changes in responses to the question of whether people feel familiarity with each of the four countries surrounding Japan: the U.S., China, South Korea, and Russia. I also looked at generational and gender differences in the most recent survey results.
-In the most recent survey, familiarity with South Korea increased, while that with Russia dropped. I see political relations as having had an impact. Also, younger people feel more familiarity with China and South Korea. The percentage of women who feel close to South Korea is higher than that of men. From this we can infer the influence of economic and cultural relations.
-
-I looked at the trends with a simple analysis by using Pandas , created some charts by using  Data Wrapper and constructed the pages by using visual studio code. These were new to me.
+I tried several new tools.
+Using D3, I color-coded and visualized the age of the winners for the 2021 House of Representatives election results. It was the first time I used Flourish to create a graph. I also experimented with adding some elements as graphical annotations.
 
 ## Things I would've liked to do:
-I would have liked to examine the relationship with other data such as economic indicators and the popularity of cultural content, but I could not go that far.
-
-
- 
-Title
-Short description of what you aimed to accomplish
-Short description of your findings
-Summary of the data collection process, with links
-Overview of the data analysis process
-A section about what new skills, approaches, etc you used, or where you grew the most during the project
-A section about things you tried to do or wanted to do but did not have the skills/time (but if you have more time you might do)
+How to maintain diversity in parliaments is an important issue in many countries. Not only age groups, but also regional, ethnic, and gender perspectives are needed. This is not only a problem in Japan. Asian countries have fewer young members of parliament, and the U.S. also has fewer young members than Europe. I would like to use a larger data set for my analysis.
