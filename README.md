@@ -30,7 +30,7 @@ I focused on the sentiment of Japanese citizens toward foreign countries and the
 |Population by age group|[United Nations World Population Prospects 2022] (https://population.un.org/wpp/)|
 |Japan's 2021 general election results |[Ministry of Internal Affairs and Communications of Japan] (https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin/index.html)|
 |Population by age group|[United Nations World Population Prospects 2022] (https://population.un.org/wpp/)|
-|List of Members, House of Representatives of Japan|House of Representatives of Japan(https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/1giin.htm)|
+|List of Members, House of Representatives of Japan|[House of Representatives of Japan](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/1giin.htm)|
 
 
 I analyzed changes in responses to the question of whether people feel familiarity with each of the four countries surrounding Japan: the U.S., China, South Korea, and Russia. I also looked at generational and gender differences in the most recent survey results.
