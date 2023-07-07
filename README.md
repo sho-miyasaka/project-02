@@ -25,11 +25,11 @@ I focused on the sentiment of Japanese citizens toward foreign countries and the
 
 |Data I Collected|Source|
 |---|---|
-|Data on age by countries|[Inter-Parliamentary Union] (https://data.ipu.org/age-brackets/)|
-|Parliamentary elections data|[Inter-Parliamentary Union] (https://data.ipu.org/elections/)|
-|Population by age group|[United Nations World Population Prospects 2022] (https://population.un.org/wpp/)|
-|Japan's 2021 general election results |[Ministry of Internal Affairs and Communications of Japan] (https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin/index.html)|
-|Population by age group|[United Nations World Population Prospects 2022] (https://population.un.org/wpp/)|
+|Data on age by countries|[Inter-Parliamentary Union](https://data.ipu.org/age-brackets/)|
+|Parliamentary elections data|[Inter-Parliamentary Union](https://data.ipu.org/elections/)|
+|Population by age group|[United Nations World Population Prospects 2022](https://population.un.org/wpp/)|
+|Japan's 2021 general election results |[Ministry of Internal Affairs and Communications of Japan](https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin/index.html)|
+|Population by age group|[United Nations World Population Prospects 2022](https://population.un.org/wpp/)|
 |List of Members, House of Representatives of Japan|[House of Representatives of Japan](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/1giin.htm)|
 
 
