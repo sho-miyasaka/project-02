@@ -1,7 +1,7 @@
 # Weak Voice of the Younger Generation in Japanese Politics
 
 ## About this project
-This is my submission as project 2 for the Lede Program in 2023. The story webpage is here: [https://sho-miyasaka.github.io/project-02/](https://sho-miyasaka.github.io/project-02/)
+This is my submission as project 2 for [the Lede Program](https://ledeprogram.com) in 2023. The story webpage is here: [https://sho-miyasaka.github.io/project-02/](https://sho-miyasaka.github.io/project-02/)
 
 
 
