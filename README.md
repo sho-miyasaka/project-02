@@ -1,8 +1,7 @@
 # Weak Voice of the Younger Generation in Japanese Politics
 
-##About this project
-This is my submission as project 2 for the Lede Program in 2023.
-The story webpage is here: [https://sho-miyasaka.github.io/project-02/](https://sho-miyasaka.github.io/project-02/)
+## About this project
+This is my submission as project 2 for the Lede Program in 2023. The story webpage is here: [https://sho-miyasaka.github.io/project-02/](https://sho-miyasaka.github.io/project-02/)
 
 
 
@@ -22,7 +21,8 @@ A section about things you tried to do or wanted to do but did not have the skil
 I focused on the sentiment of Japanese citizens toward foreign countries and then obtained [csv data
 ](https://survey.gov-online.go.jp/r04/r04-gaiko/) from [the Cabinet Office of Japan](https://www.cao.go.jp/index-e.html), which has been conducting foreign policy opinion polls for over 40 years.
 
-##About Data
+## Data collection and analysis
+
 |Data I Collected|Source|
 |---|---|
 |Data on age by countries|[Inter-Parliamentary Union] (https://data.ipu.org/age-brackets/)|
