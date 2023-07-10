@@ -18,7 +18,6 @@ Data from the Inter-Parliamentary Union is useful for making comparisons between
 |Parliamentary elections data|[Inter-Parliamentary Union](https://data.ipu.org/elections/)|
 |Population by age group|[United Nations World Population Prospects 2022](https://population.un.org/wpp/)|
 |Japan's 2021 general election results |[Ministry of Internal Affairs and Communications of Japan](https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin/index.html)|
-|Population by age group|[United Nations World Population Prospects 2022](https://population.un.org/wpp/)|
 |List of Members, House of Representatives of Japan|[House of Representatives of Japan](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/1giin.htm)|
 
 
